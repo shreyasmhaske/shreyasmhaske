@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Android App Development
+- 📫 How to reach me: on twitter [piottobon](https://twitter.com/PiOttoBonn)
+- 😄 Pronouns: He / Him
+
 <!--
 **shreyasmhaske/shreyasmhaske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
